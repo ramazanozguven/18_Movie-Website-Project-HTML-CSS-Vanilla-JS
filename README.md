@@ -1,6 +1,6 @@
 # 🎬 Movie Website Project – HTML, CSS & Vanilla JS
 
-![Projektvorschau](https://github.com/dein-benutzername/dein-repo-name/blob/main/preview.png)
+![Projektvorschau](https://github.com/ramazanozguven/18_Movie-Website-Project-HTML-CSS-Vanilla-JS/blob/523d203a73faa0481b90e11fa6911918f3b80ca8/Thumbnail.png)
 
 ## 📖 Projektbeschreibung  
 Dieses Projekt ist eine **Movie-Website**, die mit **reinem HTML, CSS und Vanilla JavaScript** erstellt wurde.  
